@@ -21,8 +21,8 @@ import java.io.IOException;
 
 
 // INCLUDE HERE THE LINK TO THE GIT REPOSITORY AS A COMMENT!!!!
-
-
+//github.com/xochitl-b/OOC-inClassLab
+//Pablo Miranda  2020361- Magdalena Burtnik 2021267
 // INCLUDE HERE THE FULL NAME AND STUDENT NUMBER OF BOTH TEAM MEMBERS 
 // AS A COMMENT!!!!
 
