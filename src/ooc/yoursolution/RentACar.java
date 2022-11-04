@@ -5,6 +5,7 @@
 package ooc.yoursolution;
 
 import java.util.ArrayList;
+import java.util.Iterator;
 import java.util.List;
 import ooc.enums.Make;
 import ooc.enums.Month;
@@ -20,10 +21,11 @@ private ArrayList<Car> carList;
     public List<CarInterface> getCars() {
         //call the interface and create a new one called "cars"
         ArrayList<CarInterface> cars = new ArrayList<>();
-        //for every car model on the list it returns the make saved as cars
-        for(Car model : carList){
-            model.getMake();
-        }return cars;
+    //for every car model on the list it returns the make saved as cars
+    for (Car model : carList) {
+        model.getMake();
+    }
+return cars;
     }
 
     @Override

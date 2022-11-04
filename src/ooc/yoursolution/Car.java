@@ -12,10 +12,12 @@ import ooc.enums.Month;
  *
  * @author lafla
  */
+    //implementation of the class carinterface
 public class Car implements CarInterface{
+    //atributes of the class
     private String make;
-    private int dailyRate;
-    private int ID;
+    private int rate;
+    private int Id;
     private int availability;
     
     
